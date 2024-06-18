@@ -162,3 +162,19 @@ So there is 12.12% restaurants has table booking and 25.66% of restaurants has o
 ![Screenshot 2024-06-18 002716](https://github.com/Sanket-K4nse/Mitron-Bank-Analysis/assets/161265478/1fc2c2c3-76d6-4ccf-b657-b8489ed92cb8)
 
 ![Screenshot 2024-06-18 002730](https://github.com/Sanket-K4nse/Mitron-Bank-Analysis/assets/161265478/e0757a2a-afaf-47ca-8961-622a9f20c09d)
+
+
+
+## Technical & Soft Skills:
+- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
+- [x]	Skills to generate a date table using Power Query.
+- [x]	Ability to derive fiscal months and quarters.
+- [x]	Establishing data model relationships with Power Pivot.
+- [x]	Proficiency in incorporating supplementary data into an existing data model.
+- [x]	Utilizing DAX to create calculated columns.
+
+## Soft Skills:
+- [x]	Refined understanding of Sales & Finance Reports
+- [x]	Designing user-centric reports with empathy in mind.
+- [x]	Optimization of report generation through meticulous fine-tuning.
+- [x]	Developing a systematic approach to devising a report building plan.
